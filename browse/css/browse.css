@@ -343,7 +343,9 @@ height: 400px;
 }
 
 .details #random_button {
-    display:block
+    display:block;
++    margin-top: 25px;
++    width: 90%;
 }
 
 
